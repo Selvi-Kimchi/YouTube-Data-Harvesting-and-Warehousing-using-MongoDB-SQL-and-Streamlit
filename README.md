@@ -1,7 +1,7 @@
 # YouTube_Data
 **YOUTUBE DATA HARVESTING AND WAREHOUSING**
 -----------------------------------------
-
+[Watch the Video][https://github.com/Selvi-Kimchi/YouTube_Data/assets/145831055/ef283269-73ed-48a1-9a05-80f6ae3256fa]
 Welcome to my YouTube Data Harvesting and Warehousing project! This application aims to simplify the process of accessing and analyzing data from various YouTube channels. It's built using SQL, MongoDB, and Streamlit for a seamless user experience.
 
 **Tools and Libraries Used**
